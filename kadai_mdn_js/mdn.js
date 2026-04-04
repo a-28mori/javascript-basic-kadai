@@ -1,4 +1,4 @@
-const today = new Date(2024, 9, 12);
+const today = new Date();
 
 const year = today.getFullYear();
 const month = today.getMonth() + 1;
